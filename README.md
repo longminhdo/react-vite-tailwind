@@ -1,7 +1,3 @@
-Below is a sample `README.md` file for a React project template using Vite and Tailwind CSS. This README provides an overview, setup instructions, and basic usage details for developers who might use or contribute to the template.
-
----
-
 # React + Vite + Tailwind CSS Template
 
 This is a lightweight, modern template for building React applications using [Vite](https://vitejs.dev/) as the build tool and [Tailwind CSS](https://tailwindcss.com/) for styling. It provides a fast development experience with hot module replacement (HMR) and a pre-configured setup to get you started quickly.
